@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T-Finlay
--  Im currently studying undergraduate Computer Science at University and am looking to potentailly contribute to some open source projects to help learn new programming skills.
--  I have some experience in Java, C, Haskell, and Python.
+- I am a recent graduate in computer science with 1st class honours from the University of Nottingham, at the moment I am using this account for personal projects.
+- Check out my most recent project, OpenGLBoids!
 
 <!---
 T-Finlay/T-Finlay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
